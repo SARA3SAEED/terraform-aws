@@ -4,3 +4,7 @@ terraform.tfstate
 terraform.tfstate.backup
 terraform.tfvars
 http.pem*
+
+#variables.tfvars
+#secret_key=""
+#access_key=""
